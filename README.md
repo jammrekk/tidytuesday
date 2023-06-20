@@ -1,0 +1,2 @@
+# tidytuesday
+Kervan yolda dizilir
